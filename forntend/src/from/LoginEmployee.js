@@ -16,7 +16,7 @@ const LoginEmployee = () => {
      
   
         try {
-            const response = await fetch(`http://localhost:8080/EmployoLogin`, {
+            const response = await fetch(`https://servease-com.onrender.com/EmployoLogin`, {
               method: 'POST',
               headers: {
                 'Content-Type': 'application/json',
