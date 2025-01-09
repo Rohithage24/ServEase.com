@@ -17,19 +17,19 @@ function Contant() {
                   <div className="col-md-6">
                     <div className="detail-box">
                       <h1>
-                        Fast & Secure <br />
-                        Services at your doorstep, anytime, anywhere.
+                      Seamless Solutions, <br />
+                         Anytime, Anywhere  At Your Doorstep!
                       </h1>
                       <p>
                         We connect users with trusted service providers for
                         plumbing, electrical work, car washing, beauty, and
-                        more—making service booking easy and reliable.{" "}
+                        more making service booking easy and reliable.{" "}
                       </p>
                       <div className="btn-box">
-                        <a href="" className="btn-1">
+                        <a href="" className=" btn btn-1 ">
                           Read More
                         </a>
-                        <Link  className="btn-2">
+                        <Link  className="btn btn-2">
                           Contact Us
                         </Link>
                       </div>
@@ -66,10 +66,10 @@ function Contant() {
                         leaving the hard work to our trusted experts{" "}
                       </p>
                       <div className="btn-box">
-                        <a href="" className="btn-1">
+                        <a href="" className="btn btn-1">
                           Read More
                         </a>
-                        <a href="" className="btn-2">
+                        <a href="" className="btn btn-2">
                           Contact Us
                         </a>
                       </div>
@@ -79,7 +79,7 @@ function Contant() {
                     <div className="row">
                       <div className=" col-lg-10 mx-auto">
                         <div className="img-box img-fluid">
-                          <img src="image/elec.jpg" className="fluid" alt="" />
+                          <img src="image/client2.png" className="fluid" alt="" />
                         </div>
                       </div>
                     </div>
@@ -102,10 +102,10 @@ function Contant() {
                         of text. All the Lorem Ipsumm{" "}
                       </p>
                       <div className="btn-box">
-                        <a href="" className="btn-1">
+                        <a href="" className="btn btn-1">
                           Read More
                         </a>
-                        <a href="" className="btn-2">
+                        <a href="" className="btn btn-2">
                           Contact Us
                         </a>
                       </div>

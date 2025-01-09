@@ -17,6 +17,7 @@ import "./style.css";
 import EmployeeList from "./component_web/EmployeeList";
 import EmployeD from "./Employee/EmployeD";
 import Emphire from "./Hireprocess/Emphire";
+import SuccessfullyHired from "./Hireprocess/SuccessfullyHired";
 
 const AppWrapper = () => {
   const location = useLocation();
@@ -49,7 +50,7 @@ const AppWrapper = () => {
         
 
         {/* Admin Routes */}
-        {/* <Route path="/admin" element={<Admin />} /> */}
+      <Route path="/sucessfully" element={<SuccessfullyHired />} /> 
         {/* <PrivateRoute></PrivateRoute> */}
       </Routes>
     </>
